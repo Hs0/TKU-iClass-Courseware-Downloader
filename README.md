@@ -1,13 +1,25 @@
-# ZJU Tronclass Courseware Downloader
+# TKU iClass Courseware Downloader
 
-[![Stars](https://img.shields.io/github/stars/iamNCJ/ZJU-Tronclass-Courseware-Downloader.svg?label=Stars&style=social)](https://github.com/iamNCJ/ZJU-Tronclass-Courseware-Downloader/stargazers)
+Download TKU iClass Courseware && Course Video
 
-Download Tronclass Courseware && Course Video
+一鍵下載淡江大學iClass中的教材與影片
 
-一键下载学在浙大的课件以及视频
+一些相關提示:
 
-![img](https://greasyfork.org/system/screenshots/screenshots/000/019/629/original/Annotation.png?1584348986)
+1.如何修改為其他學校適用的版本?
 
-![img](https://greasyfork.org/system/screenshots/screenshots/000/020/278/original/Annotation_2020-04-16_164416.png?1587026721)
+答:// @match        *://iclass.tku.edu.tw/course/*/courseware 改成目標學校Tronclass的站點即可
 
-[油猴地址](https://greasyfork.org/zh-CN/scripts/398017-zju-tronclass-downloader)
+2.適用範圍?
+
+https://iclass.tku.edu.tw/course/課程代號/courseware 類型的連結都能夠適用
+
+3.安裝方式
+
+在油猴中安裝腳本，重新整理頁面即可
+
+4.免責聲明
+
+僅作為在預覽頁面中方便下載及避免檔案過期導致無法存取檔案用途，請勿違反著作權!
+
+[原作者倉庫](https://github.com/iamNCJ/ZJU-Tronclass-Courseware-Downloader)

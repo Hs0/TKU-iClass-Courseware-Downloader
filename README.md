@@ -23,3 +23,5 @@ https://iclass.tku.edu.tw/course/課程代號/courseware 類型的連結都能�
 僅作為在預覽頁面中方便下載及避免檔案過期導致無法存取檔案用途，請勿違反著作權!
 
 [原作者倉庫](https://github.com/iamNCJ/ZJU-Tronclass-Courseware-Downloader)
+
+[油猴連結](https://greasyfork.org/zh-TW/scripts/420029-tku-iclass-downloader)

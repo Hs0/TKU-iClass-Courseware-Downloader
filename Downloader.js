@@ -10,7 +10,7 @@
 // @require      https://cdn.bootcss.com/jquery/3.5.0/jquery.min.js
 // ==/UserScript==
   
-(document).bind('DOMSubtreeModified', function() {
+$(document).bind('DOMSubtreeModified', function() {
     if ($('#Tronclass_Downloader').length == 0 && $('#file-previewer-with-note > div > div > div.header.clearfix').length) {
         $('#file-previewer-with-note > div > div > div.header.clearfix').append('<input type="button" value="強制下載" id="Tronclass_Downloader">');
         $("#Tronclass_Downloader").css("position", "relative").css("left", 10);
